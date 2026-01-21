@@ -159,7 +159,7 @@ Secure credential handling
 
 REST API integration
 
-## 📜 License
+##📜 License
 
 This project is provided as-is for educational and learning purposes.
 Use responsibly in real-world environments.
