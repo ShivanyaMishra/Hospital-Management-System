@@ -145,7 +145,7 @@ No authentication system included
 
 Always back up your database before testing delete operations
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 
 Login & role-based access
 
@@ -159,7 +159,7 @@ Secure credential handling
 
 REST API integration
 
-##📜 License
+## 📜 License
 
 This project is provided as-is for educational and learning purposes.
 Use responsibly in real-world environments.
